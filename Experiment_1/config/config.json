@@ -1,0 +1,28 @@
+{
+    "modo_import":1,
+
+    "barrido_tsne": 0,
+    "barrido_umap": 0,
+
+    "execute_kmeans": 0,
+    "execute_dbscan": 1,
+    "agrupar_meses": 0,
+
+    "graficar":1,
+    "graph_dataset": 0,
+
+    "graficar_tsne": 0,
+    "graficar_umap": 0,
+
+    "graficar_elbow": 0,
+    "graficar_silhouette": 0,
+    "graficar_kdist" : 0,
+
+    "graficar_kmeans": 0,
+    "graficar_dbscan": 0,
+
+    "graficar_boxplots_metricas":1,
+    "graficar_boxplots_grupos": 0
+
+
+}
